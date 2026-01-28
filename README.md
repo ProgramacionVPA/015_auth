@@ -8,7 +8,7 @@ El objetivo principal de este proyecto es demostrar cómo proteger endpoints (ru
 
 ## Autor
 **Estudiante:** Victor Paul Alvarez Alvarez
-**Materia:** Integración de Plataformas
+**Materia:** Arquitectura de Software
 **Tecnologías:** Kotlin, AWS Cognito, Gradle.
 
 ---
